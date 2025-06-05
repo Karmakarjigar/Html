@@ -6,3 +6,7 @@
 4. Paragraph tag
 5. Break tag and Horizontal Ruler
 6. A project (Portfolio)
+7. Heading Tag
+8. Anchor Tag (Add link)
+9. Image tag 
+10. Different Types of tags 
