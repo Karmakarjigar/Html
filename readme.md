@@ -9,4 +9,6 @@
 7. Heading Tag
 8. Anchor Tag (Add link)
 9. Image tag 
-10. Different Types of tags 
+10. Different Types of tags
+---------    Delta Start   -----------
+1. Unordered and Ordered List
