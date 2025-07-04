@@ -16,3 +16,6 @@
 3. Practice Question 3(Create Portfolio)
 4. Div, span, Subscript and Superscript Tag
 5. Practice Question 4 (Subscript and Superscript)
+6. HTML Entities
+--------- Tables ----------
+1. Table 
