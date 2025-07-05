@@ -23,3 +23,4 @@
 3. Colspan and Rowspan
 4. Practice Question 7 (Merge Table)
 5. Practice tables
+6. Practice table 2
