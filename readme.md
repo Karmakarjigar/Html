@@ -15,8 +15,11 @@
 2. Practice Question 2
 3. Practice Question 3(Create Portfolio)
 4. Div, span, Subscript and Superscript Tag
-5. Practice Question 4 (Subscript and Superscript)
+5. Practice Question 4 & 5 & 6(Subscript and Superscript)
 6. HTML Entities
 --------- Tables ----------
 1. Table 
 2. Table head, body, footer
+3. Colspan and Rowspan
+4. Practice Question 7 (Merge Table)
+5. Practice tables
