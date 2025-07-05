@@ -25,4 +25,6 @@
 5. Practice tables
 6. Practice table 2
 --------- Forms --------
-1. 
+1. Input attribute
+2. placeholder and label
+3. button
