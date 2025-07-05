@@ -19,3 +19,4 @@
 6. HTML Entities
 --------- Tables ----------
 1. Table 
+2. Table head, body, footer
