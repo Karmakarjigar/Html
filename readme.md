@@ -31,3 +31,4 @@
 4. Name and action attribute
 5. Practice Question 8 (google serach)
 6. CheckBox
+7. Select (Dropdown)
