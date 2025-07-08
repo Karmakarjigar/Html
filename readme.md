@@ -28,3 +28,6 @@
 1. Input attribute
 2. placeholder and label
 3. button
+4. Name and action attribute
+5. Practice Question 8 (google serach)
+6. CheckBox
