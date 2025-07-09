@@ -32,3 +32,7 @@
 5. Practice Question 8 (google serach)
 6. CheckBox
 7. Select (Dropdown)
+8. Range
+9. Form Pracrice
+10. Textarea
+11.  Practice Question 9 (create form)
