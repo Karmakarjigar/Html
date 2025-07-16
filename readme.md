@@ -36,3 +36,6 @@
 9. Form Pracrice
 10. Textarea
 11.  Practice Question 9 (create form)
+
+------------ Practice only -------------
+1. Quetion : Design a navigation bar using only HTML with links to: Home, About, Services, and Contact pages.
